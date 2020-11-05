@@ -1,0 +1,20 @@
+.tieude{
+    text-align: center;
+    background-color: green;
+    color:yellow;
+    font-weight: bold;
+}
+
+a{
+    display:block;
+}
+
+img{
+    width: 175px;
+    height: auto;
+}
+
+#tin{
+    border-bottom: 1px solid green;
+    padding: 5px;
+}
